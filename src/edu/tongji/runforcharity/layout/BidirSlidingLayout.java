@@ -151,7 +151,8 @@ public class BidirSlidingLayout extends RelativeLayout implements
      * @param context
      * @param attrs
      */
-    public BidirSlidingLayout(Context context, AttributeSet attrs)
+    @SuppressWarnings("deprecation")
+	public BidirSlidingLayout(Context context, AttributeSet attrs)
     {
         super(context, attrs);
         WindowManager wm = (WindowManager) context

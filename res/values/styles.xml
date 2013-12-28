@@ -23,4 +23,5 @@
     <drawable name="loginButtonBlue">#6ED9E9</drawable>
 	<drawable name="loginButtonTextWhite">#FFFFFF</drawable>
 	<drawable name="loginForgetPasswordText">#C9785A</drawable>
+	<drawable name="leftMenuBack">#393939</drawable>
 </resources>
